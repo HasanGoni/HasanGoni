@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanGoni
 - 👀 I’m interested in Machine learning/Deep learning specially in Tabular Data and Image Data
-- 🌱 I’m working in Semiconductor Industry for more than 4 years now as a data scientist and my role to find and solve business case using deep learning/ machine learning.
+- 🌱 I’m working in Semiconductor Industry for more than 6 years now(May 2024) as a data scientist and my role to find and solve business case using deep learning/ machine learning. My hobby is to learn about computer vision :)
 ...
 
 <!---
